@@ -1,0 +1,29 @@
+.box{
+    background-color: white;
+    width: 500px;
+    height: 600px;
+}
+img{
+    width: 600px;
+    height: 600px;
+    margin-right: 150px;
+    margin-top: -150px;
+}
+.container{
+    display: flex;
+}
+.firsth1{
+    font-size: 52px;
+}
+.p2{
+    list-style: none;
+    text-decoration: none;
+}
+.li12{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.li2{
+    flex-wrap: nowrap;
+}

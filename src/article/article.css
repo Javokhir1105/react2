@@ -1,0 +1,59 @@
+.container2{
+    padding: 25px;
+    max-width: 1440px;
+    margin-top: 40px;
+    background-color: white;
+}
+.arc{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.rasm{
+    width: 600px;
+    height: 300px;
+    margin: 0;
+}
+.item2{
+    width: 600px;
+    height: 700px;
+}
+.arch1{
+    font-size: 50px;
+}
+.arc2{
+    display: flex;
+    width: 1240px;
+    padding: 0 55px;
+}
+.arcli1{
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.liarc{
+    margin-left: 60px;
+    width: 150px;
+    height: 50px;
+    border: 2px solid grey;
+    list-style: none;
+    text-align: center;
+}
+.listt{
+    border-radius: 25px;
+    box-shadow: 0px 2px 6px 10px rgba(20, 20, 43, 0.04);
+    padding: 0 35px;
+    margin-left: 25px;
+    width: 450px;
+    height: 350px;
+    list-style: none;
+}
+.arch2{
+    font-size: 32px;
+}
+.arcp{
+    font-size: 24px;
+}
+.arcb{
+    font-size: 20px;
+}

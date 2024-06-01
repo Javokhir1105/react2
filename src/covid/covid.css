@@ -1,0 +1,41 @@
+.boxer{
+    margin-top: 100px;
+    justify-content: space-between;
+    width: 600px;
+    height: 600px;
+}
+.covp{
+    color: white;
+}
+.img7{
+    width: 600px;
+    height: 600px;
+    margin-top: 50px;
+    margin-right: 0;
+}
+.container3{
+    margin-top: 100px;
+    background: #211F54;
+    display: flex;
+    justify-content: space-between;
+}
+.covidh1{
+    font-size: 52px;
+    color: white;
+}
+.p3{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.covb{
+    color: white;
+}
+.li22{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.li32{
+    flex-wrap: nowrap;
+}
