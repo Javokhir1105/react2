@@ -16,7 +16,7 @@ function Contact() {
                     </ul>
                     <h2 className="conh2">Not convinced yet?</h2>
                     <p className="conp">Massa bibendum consectetur maurisid gravida purus, dolor dui amet morbi non nunc urna purus diam.</p>
-                    <li className="conli"><a href="#" className="cona">Browse our packages</a></li>
+                    <Button  name={"Browse our pakgage"} color={"white"} word={"black"}/>
                 </div>
                 <div className="item7">
                     <div className="last">
